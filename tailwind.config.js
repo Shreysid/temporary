@@ -9,6 +9,7 @@ export default {
       colors: {
         orange: "#ff8a00",
         navy: "#2f327d",
+        gray: "#696983",
       },
     },
   },
